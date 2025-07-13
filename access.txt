@@ -1,6 +1,5 @@
-ON
+[general]
+status = ON
 
 [users]
 nael = armonyclicker
-julie = app2
-leo = app3
