@@ -1,6 +1,9 @@
 [general]
 status = ON
+title = ARMONY LAUNCHER
+message = Bienvenue dans votre espace personnel
 
 [users]
-nael = motdepasse123 | armonyclicker, app2
-julie = juliepass | app2
+nael = motdepasse123 | armonyclicker,app2
+julie = monpass | app2
+leo = test123 | app3
