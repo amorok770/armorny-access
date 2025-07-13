@@ -2,4 +2,5 @@
 status = ON
 
 [users]
-nael = armonyclicker
+nael = motdepasse123 | armonyclicker, app2
+julie = juliepass | app2
