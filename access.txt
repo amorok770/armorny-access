@@ -1,0 +1,6 @@
+ON
+
+[users]
+nael = app1,app2
+julie = app2
+leo = app3
